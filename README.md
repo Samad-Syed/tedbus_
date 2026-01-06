@@ -91,25 +91,8 @@ The frontend server will run on `http://localhost:4200`.
 1. Open your browser and navigate to `http://localhost:4200`.
 2. Use the application to search for bus routes, book tickets, and manage your bookings.
 
-## Contributing
 
-To contribute to TedBus, follow these steps:
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-name`)
-3. Make your changes and commit them (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature-name`)
-5. Create a new Pull Request
-
-## Contact
-
-If you want to contact me, you can reach me at [girishmaharana42@gmail.com ].
-
-## Acknowledgments
-
-- [RedBus](https://www.redbus.in/) for the inspiration.
-
----
 
 ### Installing Angular Packages
 

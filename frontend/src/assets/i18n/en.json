@@ -1,0 +1,19 @@
+{
+    "NAV": {
+        "BUS_TICKETS": "Bus Tickets",
+        "CAB_RENTAL": "Cab Rental",
+        "TRAIN_TICKETS": "Train Tickets",
+        "HELP": "Help",
+        "ACCOUNT": "Account",
+        "DARK": "Dark",
+        "MY_TRIPS": "My Trips",
+        "LIGHT": "Light"
+    },
+    "HOME": {
+        "TITLE": "India's No. 1 Online Bus Ticket Booking Site",
+        "SEARCH_BUSES": "SEARCH BUSES",
+        "FROM": "From",
+        "TO": "To",
+        "DATE": "Date"
+    }
+}
